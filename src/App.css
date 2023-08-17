@@ -1,0 +1,15 @@
+.slides{
+    background-color: rgb(29, 25, 49);
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    /* display:block; */
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    /* flex-direction: column; */
+}
